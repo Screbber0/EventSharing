@@ -14,7 +14,7 @@ https://eventsharing.azurewebsites.net/
 
 **Ссылка на код**
 
-https://github.com/thendray/EventSharingFinal
+https://github.com/screbber0/EventSharingFinal
 ***
 
   Почти каждый человек хочет, чтобы его жизнь была насыщенной, интересной, разнообразной. Для этого существует огромное колличество разнообразных видов досуга. Однако их поиск может занимать много времени.
